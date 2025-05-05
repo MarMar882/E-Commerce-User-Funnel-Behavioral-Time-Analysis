@@ -1,0 +1,7 @@
+2019-Oct.csv
+2019-Nov.csv
+.DS_Store
+.venv
+__pycache__
+ipynb_checkpoints
+pyc.
