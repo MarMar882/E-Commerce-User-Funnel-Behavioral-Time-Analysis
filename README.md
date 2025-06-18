@@ -85,8 +85,9 @@ Detailed insights available in [`insights.md`](insights.md)
 ## Setup
 
 This project relies on standard Python data science libraries: `pandas`, `matplotlib`, and `numpy`.
-python funnel_analysis.py
+
 Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
